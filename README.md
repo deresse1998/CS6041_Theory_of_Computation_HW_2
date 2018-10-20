@@ -1,4 +1,4 @@
-# CS6041_Theory_of_Computation_HW_2
+# CS6041 Theory of Computation HW_2
 Homework 2: Write a program that simulate the execution of the following FAs. You need to implement GUI (Graphic User Interface).
 1) a PDA that recognizes the language {w: w is a palindrome}.
 2) a PDA that recognizes the language 0^n 1^n
